@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+<name>cntnd_random_image</name>
+<description>
+cntnd_random_image
+Random Image - from Core Image
+
+Autor Thomas D Ascoli, thomas@dasco.li
+
+Version 1.0.0
+</description>
+<type/>
+<alias>cntnd_random_image</alias>
+</module>

@@ -1,0 +1,4 @@
+MODULE=Bild
+SELECT_CHOOSE=-bitte wählen-
+IMAGE_FOLDER=Bilderordner
+ADDITIONAL_CLASS=Zusätzliche CSS-Klasse
